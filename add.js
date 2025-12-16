@@ -1,4 +1,4 @@
 function add(a,b){
-  console.log("this is addition function")
+  console.log(a+b)
   return a+b;
 }
